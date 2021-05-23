@@ -209,8 +209,9 @@ ul{
     grid-area: right-column;
     display: grid;
     align-content: center;
-    padding-left: 50px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    overflow: hidden;
 }
 
 #preview-shadow{
